@@ -1,0 +1,3 @@
+//Simple Hello World application that creates the bruh object, stores the string "Hello World" in it, then writes it to the console.
+bruh helloString = "Hello World";
+console.log(helloString);
