@@ -11,3 +11,7 @@ Create a document with the file extension `.bruh` and then run `node bruhToJs.js
 ## Methods
 Instead of the object "var" we use "bruh"
 
+## Future projects
+- BSS (BruhScading Style Shee)
+- BTML Bruh Text Markup Language
+
